@@ -35,9 +35,7 @@ int	ft_pwd(int *status, char **env)
 {
 	char	*ret;
 	char	buff[PATH_MAX + 1];
-	int		len;
 
-	len = 1;
 	ret = NULL;
 	if (*status == 1)
 		ret = ft_search_pwd(env);
