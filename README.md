@@ -1,4 +1,4 @@
-# minishell
+# minishell 💻
 MiniShell is a project that aims to implement a simple bash shell, capable of executing basic commands, handling multiple commands with pipes, and managing file redirections. This project provides a user-friendly interface for interacting with a command-line operating system.
 
 ## Introduction
